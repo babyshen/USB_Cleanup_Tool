@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 
-__author__  = 'm1911'
+__author__  = 'babyshen'
 __version__ = '1.0.0'
 
 # psutil 为第三方模块
